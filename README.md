@@ -3,8 +3,7 @@
 - 🌱 I’m cursando o 4° periodo de análise e desenvolvimento de sistemas
 - 💞️ I’m looking to collaborate com empresas que procuram um desenvolvedor junior
 - 📫 How to reach me eduardohenriqueteixeira5@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 eduardoAlmeid4/eduardoAlmeid4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
